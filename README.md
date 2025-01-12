@@ -2,7 +2,7 @@
 
 <h2> About Me </h2>
   
-- 👨🏻‍💻 I am a Data Science undergrad with a background in Mathematics and a passion for Finance
+- 👨🏻‍💻 I am a Data Science undergraduate with a background in Mathematics and a passion for Finance
 
 - 🔭 I’m currently working on **Financial Modelling and AI Agents**
 
