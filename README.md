@@ -4,7 +4,7 @@
   
 - 👨🏻‍💻 I am a Data Science undergraduate with a background in Mathematics and a passion for Finance
 
-- 🔭 I’m currently working on **Financial Modelling and AI Agents**
+- 🔭 I’m currently working on **Financial Modelling and Agentic AI**
 
 - 🌱 I’m currently learning **Game Theory and Signal Processing for Alpha Generation**
   
