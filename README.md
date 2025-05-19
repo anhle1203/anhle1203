@@ -4,21 +4,20 @@
   
 - 👨🏻‍💻 I am a Data Science undergraduate with a background in Mathematics and a passion for Finance
 
-- 🔭 I’m currently working on **Financial Modelling and Agentic AI**
+- 🔭 I’m currently working on **Agentic AI**
 
-- 🌱 I’m currently learning **Game Theory and Signal Processing for Alpha Generation**
+- 🌱 I’m currently learning **Poker Theory and Signal Processing for Alpha Generation**
   
-- 💬 Ask me about **SQL, Python, Java, A/B Testing, Tricky Probability Questions**
+- 💬 Ask me about **SQL, Python, Probability, and Financial Market**
 
-- 💻 All of my projects are available at [https://github.com/anhle1203](https://github.com/anhle1203)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/anhle1203/](https://www.linkedin.com/in/anhle1203/)
+- 📄 Connect with me via [LinkedIn](https://www.linkedin.com/in/anhle1203/)
 
 <h2> My Career Involvement </h2>
+- 📈 Quantitative Analyst Intern at [Condire Investors](https://www.condireinvestorsllc.com/)
 
-- 📈 Quantitative Research Consultant at [WorldQuant](https://www.worldquant.com/)
+- 👁️ Quantitative Research Consultant at [WorldQuant](https://www.worldquant.com/)
 
-- 💰 Previous Risk Analyst Intern at [Upbound Group](https://www.upbound.com/)
+- ⚒︎ Previous Risk Analyst Intern at [Upbound Group](https://www.upbound.com/)
 
 - 🏦 Previous Data Analyst Intern at [Asian Development Bank](https://www.adb.org/)
 
