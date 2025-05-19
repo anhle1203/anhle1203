@@ -13,6 +13,7 @@
 - 📄 Connect with me via [LinkedIn](https://www.linkedin.com/in/anhle1203/)
 
 <h2> My Career Involvement </h2>
+
 - 📈 Quantitative Analyst Intern at [Condire Investors](https://www.condireinvestorsllc.com/)
 
 - 👁️ Quantitative Research Consultant at [WorldQuant](https://www.worldquant.com/)
