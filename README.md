@@ -16,8 +16,6 @@
 
 - 📈 Quantitative Analyst Intern at [Condire Investors](https://www.condireinvestorsllc.com/)
 
-- 👁️ Quantitative Research Consultant at [WorldQuant](https://www.worldquant.com/)
-
 - ⚒︎ Previous Risk Analyst Intern at [Upbound Group](https://www.upbound.com/)
 
 - 🏦 Previous Data Analyst Intern at [Asian Development Bank](https://www.adb.org/)
