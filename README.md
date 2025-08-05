@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Derek Le</h1>
+# Hello, I'm Derek Le 🃏
 
-<h2> About Me </h2>
+## About Me 
   
 - 👨🏻‍💻 I am a Data Science undergraduate with a background in Mathematics and a passion for Finance
 
@@ -10,9 +10,9 @@
   
 - 💬 Ask me about **SQL, Python, Probability, and Financial Market**
 
-- 📄 Connect with me via [LinkedIn](https://www.linkedin.com/in/anhle1203/)
+- 🌐 Connect with me via [LinkedIn](https://www.linkedin.com/in/anhle1203/)
 
-<h2> My Career Involvement </h2>
+## My Career
 
 - 📈 Quantitative Analyst Intern at [Condire Investors](https://www.condireinvestorsllc.com/)
 
@@ -20,48 +20,26 @@
 
 - 🏦 Previous Data Analyst Intern at [Asian Development Bank](https://www.adb.org/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anhle1203" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="derek-le" height="30" width="40" /></a>
-<a href="https://github.com/anhle1203" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="derek-le" height="30" width="40" /></a>
 
-</p>
-
-  <div style="flex: 1;">
-    <h3 align="left">Languages and Tools:</h3>
-    <p align="left"> 
-      <a href="https://www.python.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-      </a> 
-      <a href="https://www.java.com" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-      </a> 
-      <a href="https://www.mysql.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-      </a> 
-      <a href="https://www.r-project.org/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> 
-      </a> 
-      <a href="https://www.oracle.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/> 
-      </a> 
-      <a href="https://pandas.pydata.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-      </a> 
-      <a href="https://numpy.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
-      </a> 
-      <a href="https://matplotlib.org/" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
-      </a> 
-      <a href="https://seaborn.pydata.org/" target="_blank"> 
-        <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-      </a> 
-      <a href="https://plotly.com/" target="_blank"> 
-        <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="plotly" width="40" height="40"/> 
-      </a>
-      <a href="https://streamlit.io/" target="_blank"> 
-        <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="streamlit" width="120" height="40"/> 
-      </a> 
-    </p>
-  </div>
+## Language and Tools
+![python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+![java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![sql](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![r](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+![numpy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy)
+![pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![pytorch](https://img.shields.io/badge/PyTorch-black?logo=PyTorch)
+![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)
+![scikit](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![argilla](https://img.shields.io/badge/Argilla-FFB300?style=flat&logo=data:image/svg+xml;base64,...)
+![cometml](https://img.shields.io/badge/CometML-1B1B3A?style=flat&logo=data:image/svg+xml;base64,...)
+![streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![sqlserver](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![oracledb](https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=oracle&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)
+![tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+![powerbi](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel-VBA](https://img.shields.io/badge/VBA-1D6F42?style=flat&logo=microsoft-excel&logoColor=white)
+![Excel-PowerQuery](https://img.shields.io/badge/PowerQuery-217346?style=flat&logo=microsoft-excel&logoColor=white)
