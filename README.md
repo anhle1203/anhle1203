@@ -4,9 +4,9 @@
   
 - 👨🏻‍💻 I am a Data Science undergraduate with a background in Mathematics and a passion for Finance
 
-- 🔭 I’m currently working on **Quantitative Research on Momentum Investing**
+- 🔭 I’m currently working on **Quantitative Momentum Investing**
 
-- 🌱 I’m currently learning **Probibilistic Models**
+- 🌱 I’m currently learning **Stochastic Processes**
   
 - 💬 Ask me about **SQL, Python, Probability, and Financial Market**
 
