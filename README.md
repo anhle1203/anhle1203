@@ -14,11 +14,11 @@
 
 ## My Career
 
-- 📈 Quantitative Analyst Intern at [Condire Investors](https://www.condireinvestorsllc.com/)
+- 📈 Quantitative Analyst Intern at [Condire Investors](https://www.condireinvestorsllc.com/) (05/2025-08/2025)
 
-- ⚒︎ Previous Risk Analyst Intern at [Upbound Group](https://www.upbound.com/)
+- ⚒︎ Data Science Intern at [Upbound Group](https://www.upbound.com/) (05/2024-08/2024)
 
-- 🏦 Previous Data Analyst Intern at [Asian Development Bank](https://www.adb.org/)
+- 🏦 Data Analyst Intern at [Asian Development Bank](https://www.adb.org/) (05/2023-08/2023)
 
 
 ## Language and Tools
