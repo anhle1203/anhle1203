@@ -2,17 +2,16 @@
 
 ## About Me 
   
-- 👨🏻‍💻 I am a Data Science undergraduate with a background in Mathematics and a passion for Finance
+- 👨🏻‍💻 I’m currently working on **growth and strategy via insurance ads exchanges**
 
-- 🔭 I’m currently working on **Quantitative Momentum Investing**
-
-- 🌱 I’m currently learning **Stochastic Processes**
+- 🌱 I’m currently learning **fair value and optimal bidding**
   
-- 💬 Ask me about **SQL, Python, Probability, and Financial Market**
+- 💬 Ask me about **Probability and Financial Market**
 
 - 🌐 Connect with me via [LinkedIn](https://www.linkedin.com/in/anhle1203/)
 
 ## My Career
+- 🛡️ Data Analyst at [Insurify](https://insurify.com/) (05/2026 - Now)
 
 - 📈 Quantitative Analyst Intern at [Condire Investors](https://www.condireinvestorsllc.com/) (05/2025-08/2025)
 
